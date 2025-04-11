@@ -1,0 +1,13 @@
+Que. 1
+
+https://leetcode.com/problems/longest-consecutive-sequence/submissions/1603679648/
+
+
+Que. 2
+
+https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/1603676761/
+
+
+Que. 3
+
+https://leetcode.com/problems/next-greater-element-i/submissions/1603678000/
